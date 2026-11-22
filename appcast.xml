@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
@@ -5,6 +6,20 @@
         <link>https://raw.githubusercontent.com/merimau/luoi-edit-updates/main/appcast.xml</link>
         <description>Các bản cập nhật của Lười Edit</description>
         <language>vi</language>
+
+        <item>
+            <title>Phiên bản 1.1</title>
+            <pubDate>Mon, 23 Nov 2026 03:20:00 +0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/merimau/luoi-edit-updates/releases/download/L%C6%B0%E1%BB%9DiEdit1.1/L.i.Edit.1.1.zip"
+                length="9275508"
+                type="application/octet-stream"
+                sparkle:edSignature="U1To652YL79LK0mlBhN013kKS4j+ECUek+zCfFqb26pMKE/7Kzj4oZ1OEZwBNMT5HMKOI0tFA++nmR32CPq6Bw==" />
+        </item>
+
         <item>
             <title>Phiên bản 1.0</title>
             <pubDate>Sun, 22 Nov 2026 02:29:10 +0700</pubDate>
